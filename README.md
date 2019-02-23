@@ -1,3 +1,3 @@
 # Introdução a Programação com Python
 
-http://python.nilo.pro.br
+https://python.nilo.pro.br/downloads.html
